@@ -1,10 +1,6 @@
-.maison{
-    height: 100vh;  
+.nav-link{
+    color: #344463 !important;
 }
-.svg{
-    width: 50px;
-    gap: 10px;
-}
-.card1{
-    width: 18rem;
+.ecrit{
+    margin-top: 45rem !important;
 }

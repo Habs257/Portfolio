@@ -2,17 +2,27 @@
     color: #344463 !important;
 }
 .ecrit{
-    margin-top: 45rem !important;
+    /* margin-top: 45rem !important; */
 }
 .card-img-top{
     height: 50%;
 }
-.btn{
-color: #ebf0ee;
+.cad{
+
 }
-.carde{
-    height: 458px !important;
+.iconn{
+    margin-top: 19rem !important;
 }
+.ican{
+    white-space: nowrap;
+}
+.premier{
+    margin-top: 15rem !important;
+}
+/* .btn{
+color: #FF6B00 !important;
+background-color: #EBEFF4 !important;
+} */
 .bod{
     height: 156px !important;
 }
@@ -25,18 +35,14 @@ color: #ebf0ee;
 .dex{
     white-space: nowrap !important;
 }
-.btn2023{
- 
-    margin-left: 8rem !important;  
+.btn2023 ul li{
+ color: #FF6B00 !important;
 }
 .skil{
     height: 566px !important;
 }
 .skil2{
     height: 400px !important;
-}
-.btn20232{
- 
 }
 .lang{
     height: 566px !important;
@@ -48,8 +54,35 @@ color: #ebf0ee;
 .top1{
     height: 304px !important;
 }
-.ig{
-    width: 80% !important;
-    align-items: end !important;
+.orange{
+    color: #FF6B00;
+}
+.chevrons{
+    margin-top: 2rem !important;
+    display: flex !important;
+    justify-content: end;
+    
+}
+.chevronss{
+    border: 1px solid black;
+}
+.fille{
+width:90% !important;
 }
 
+.iimg{
+    height: 300px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 12px;
+}
+.carde{
+    width: 423.33px;
+    margin: auto;
+    justify-content: center;
+}
+.cardebod{
+    height: 204px !important;
+}
+.abou{
+    font-size:70px ;
+}

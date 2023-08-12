@@ -1,28 +1,33 @@
+body{
+    width: fit-content;
+}
 .nav-link{
     color: #344463 !important;
-}
-.ecrit{
-    /* margin-top: 45rem !important; */
 }
 .card-img-top{
     height: 50%;
 }
-.cad{
-
-}
 .iconn{
     margin-top: 19rem !important;
-}
-.ican{
-    white-space: nowrap;
 }
 .premier{
     margin-top: 15rem !important;
 }
-/* .btn{
-color: #FF6B00 !important;
-background-color: #EBEFF4 !important;
-} */
+.ptb{
+    width: 7rem;
+    height: 2.5rem;
+    border: none;
+    border-radius: 5px;
+}
+.ptb:hover{
+    background-color: #C5E9DA !important;
+}
+button.ptb{
+    background-color: #36B37E;
+}
+.ptb:active{
+    background-color:#28855D !important;
+}
 .bod{
     height: 156px !important;
 }
@@ -30,6 +35,9 @@ background-color: #EBEFF4 !important;
     height: 280px !important;
 }
 .get{
+    border: none;
+    height: 45px;
+    width:120px;
     background-color: rgb(255,107,0);
 }
 .dex{
@@ -38,8 +46,10 @@ background-color: #EBEFF4 !important;
 .btn2023 ul li{
  color: #FF6B00 !important;
 }
-.skil{
-    height: 566px !important;
+.btn{
+    font-size: 5px;
+color: #FF6B00 !important;
+background-color: #EBF0EE !important;
 }
 .skil2{
     height: 400px !important;
@@ -50,7 +60,6 @@ background-color: #EBEFF4 !important;
 .uk{
     height: 86px !important;
 }
-
 .top1{
     height: 304px !important;
 }
@@ -60,8 +69,7 @@ background-color: #EBEFF4 !important;
 .chevrons{
     margin-top: 2rem !important;
     display: flex !important;
-    justify-content: end;
-    
+    justify-content: end;   
 }
 .chevronss{
     border: 1px solid black;
@@ -69,20 +77,64 @@ background-color: #EBEFF4 !important;
 .fille{
 width:90% !important;
 }
-
 .iimg{
     height: 300px;
     border-radius: 20px;
     box-shadow: 2px 2px 12px;
 }
-.carde{
-    width: 423.33px;
-    margin: auto;
-    justify-content: center;
+.dark{
+    height: 183px !important;
 }
-.cardebod{
-    height: 204px !important;
+.langue{
+    width: 416px !important;
+height: 493px !important;
+}
+.framwo{
+    width: 416px !important;
+    height: 493px !important; 
 }
 .abou{
     font-size:70px ;
 }
+.ull{
+    height: 124px !important;
+}
+.ski{
+    height: 493px;
+    width:416px ;
+}
+.bouton1{
+    color: white;
+    font-size: 25px;
+    border-top-right-radius: 25px ;
+    border-bottom-left-radius: 25px ;
+    width: 280px ;
+    height: 60px ;
+    background-color: #FF6B00 ;
+    border: 1px solid black;
+    box-shadow: 5px 5px 25px gray ;
+}
+.dow{
+    width:30px;
+    height: 45px;
+    font-size: 51px;
+}
+.cardebod{
+    height: 212px;
+}
+textarea:focus{
+   box-shadow: none;
+}
+a:hover svg path{
+    fill: #FF6B00;
+}
+textarea{
+    border-color: #FF6B00 ;
+}
+.bod1{
+    background-color: #EBEFF4 !important;
+}
+
+    
+
+

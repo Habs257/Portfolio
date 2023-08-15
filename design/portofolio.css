@@ -11,7 +11,7 @@ body{
     margin-top: 19rem !important;
 }
 .premier{
-    margin-top: 15rem !important;
+    /* margin-top: 15rem !important; */
 }
 .ptb{
     width: 7rem;
@@ -75,7 +75,8 @@ background-color: #EBF0EE !important;
     border: 1px solid black;
 }
 .fille{
-width:90% !important;
+    width: 422px !important;
+/* width:100% !important; */
 }
 .iimg{
     height: 300px;
@@ -143,6 +144,19 @@ ul{
 }
 .ros1{
 margin-bottom: 30px;
+}
+.input-groupe{
+width: 400px !important;
+}.input-groupee{
+    width: 812px !important;
+}
+.input-groupi{
+    width: 812px !important;
+}
+@media screen  and (max-width:1024px) {
+    .row{
+        flex-direction: column;
+    }
 }
 
 

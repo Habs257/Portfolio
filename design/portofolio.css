@@ -5,7 +5,7 @@ body{
     color: #344463 !important;
 }
 .card-img-top{
-    height: 50%;
+ border-radius: 10px !important;   
 }
 .iconn{
     margin-top: 19rem !important;
@@ -87,22 +87,17 @@ width:90% !important;
 }
 .langue{
     width: 416px !important;
-height: 493px !important;
+    height: 493px !important;
+    margin-left: 10px;
 }
-.framwo{
-    width: 416px !important;
-    height: 493px !important; 
-}
+
 .abou{
     font-size:70px ;
 }
 .ull{
     height: 124px !important;
 }
-.ski{
-    height: 493px;
-    width:416px ;
-}
+
 .bouton1{
     color: white;
     font-size: 25px;
@@ -134,7 +129,21 @@ textarea{
 .bod1{
     background-color: #EBEFF4 !important;
 }
+.card-img-top{
+    height: 242.5px;
+}
+ul{
+    white-space: nowrap;    
+}
+.icona{
+   height: 96px; 
+}
+.iconaa{
+    height: 57px;
+}
+.ros1{
+margin-bottom: 30px;
+}
 
-    
 
 

@@ -10,9 +10,6 @@ body{
 .iconn{
     margin-top: 19rem !important;
 }
-.premier{
-    /* margin-top: 15rem !important; */
-}
 .ptb{
     width: 7rem;
     height: 2.5rem;
@@ -156,6 +153,60 @@ width: 400px !important;
 @media screen  and (max-width:1024px) {
     .row{
         flex-direction: column;
+    }
+    .chevronss{
+        display: none;
+    }
+    .fille{
+        width: fit-content;
+    }
+    .bouton1{
+        display: none;
+    }
+    .ros1{
+        margin-left: 5rem !important;
+        margin-right: 0 !important;
+    }
+    .ros1 div{
+        width: 800px !important;
+    }
+    .ros2{
+        margin-left: 5rem !important;
+    }
+    .ros2 div{
+        width: 800px !important;
+    }
+    .ros3{
+        margin-left: 5rem !important;
+    }
+    .langue{
+        width: 800px !important;
+        margin-bottom: 30px !important;
+    }
+    div .con{
+        width: 100%;
+    }
+    .teg{
+        display: flex;
+        justify-content: end;
+    }
+    .rop{
+        justify-content: center;
+    }
+    .premier{
+        align-items: center;
+    }
+    .premier{
+        margin-left: 17rem !important;
+    }
+    .life{
+        margin-left: 12rem !important;
+    }
+    .iiii{
+        height: 20px !important;
+    }
+    .impt{
+        margin-left: 5rem !important;
     }
 }
 

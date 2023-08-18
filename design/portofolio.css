@@ -1,5 +1,12 @@
 body{
-    width: fit-content;
+ padding: 0; 
+    margin: 0;
+    font-family: 'Bai Jamjuree', sans-serif !important;
+font-family: 'Edu NSW ACT Foundation', cursive !important;
+font-family: 'Inter', sans-serif !important;
+}
+.life{
+    /* overflow: hidden; */
 }
 .nav-link{
     color: #344463 !important;
@@ -8,7 +15,7 @@ body{
  border-radius: 10px !important;   
 }
 .iconn{
-    margin-top: 19rem !important;
+    margin-top: 0.5rem;
 }
 .ptb{
     width: 7rem;
@@ -72,8 +79,12 @@ background-color: #EBF0EE !important;
     border: 1px solid black;
 }
 .fille{
-    width: 422px !important;
+    width: 680px !important;
 /* width:100% !important; */
+}
+.mous{ 
+
+
 }
 .iimg{
     height: 300px;
@@ -91,11 +102,14 @@ background-color: #EBF0EE !important;
 
 .abou{
     font-size:70px ;
+    margin-top: 2rem;
 }
 .ull{
     height: 124px !important;
 }
-
+.iconn{
+    margin-top:9rem !important;
+}
 .bouton1{
     color: white;
     font-size: 25px;
@@ -143,16 +157,28 @@ ul{
 margin-bottom: 30px;
 }
 .input-groupe{
-width: 400px !important;
+width: 340px !important;
 }.input-groupee{
-    width: 812px !important;
+    width: 632px !important;
 }
 .input-groupi{
-    width: 812px !important;
+    width: 632px !important;
+}
+.ecrit{
+    margin-top: 15rem;
+}
+.ican{
+    margin-top: 5rem;
+}
+.premier{
+ height: 100vh;
+}
+.iiii{
+    margin-top: 7rem;
 }
 @media screen  and (max-width:1024px) {
-    .row{
-        flex-direction: column;
+    .rop{
+   flex-direction: column;
     }
     .chevronss{
         display: none;
@@ -168,19 +194,19 @@ width: 400px !important;
         margin-right: 0 !important;
     }
     .ros1 div{
-        width: 800px !important;
+        width: 616px !important;
     }
     .ros2{
         margin-left: 5rem !important;
     }
     .ros2 div{
-        width: 800px !important;
+        width:616px !important;
     }
     .ros3{
         margin-left: 5rem !important;
     }
     .langue{
-        width: 800px !important;
+        width: 616px !important;
         margin-bottom: 30px !important;
     }
     div .con{
@@ -194,13 +220,11 @@ width: 400px !important;
         justify-content: center;
     }
     .premier{
-        align-items: center;
-    }
-    .premier{
-        margin-left: 17rem !important;
+        width: 700px !important;
+        margin-left: 10rem;
     }
     .life{
-        margin-left: 12rem !important;
+        margin-left: 6rem !important;
     }
     .iiii{
         height: 20px !important;
@@ -208,6 +232,25 @@ width: 400px !important;
     .impt{
         margin-left: 5rem !important;
     }
+   .icon{
+    width: 616px !important;
+   }
+   .tous{
+    justify-content: center;
+   }
+   .mous{
+    display: flex;
+    justify-content: center;
+   }
+   .ecrit{
+width: 700px !important;
+   }
+   .ican{
+    width: 700px !important;
+   }
+}
+@media screen and(max-width:1024px) {
+    
 }
 
 

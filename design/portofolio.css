@@ -1,7 +1,11 @@
 .full {
     display: none !important;
 }
-
+.black{
+    width: 15px;
+    height: 5px;
+    display: none !important;
+}
 #Selenium {
     display: none;
 }
@@ -245,7 +249,14 @@ input:focus {
 input {
     border-color: #FF6B00 !important;
 }
-@media screen and (max-width:375px) {
+@media screen and (max-width:375px) { 
+    .black{
+       margin: auto !important;
+        display: block !important;
+        width: 110px;
+        height: 10px;
+        border-radius: 10px ;
+    }
     .ros1 {
         margin-bottom: 0px;
     }
@@ -362,7 +373,7 @@ input {
         flex-direction: column !important;
     }
     .get{
-        margin-left: 6.5rem !important;
+ margin-left: 15.5rem !important;
     }
     #zo{
   margin: auto !important;
@@ -381,12 +392,17 @@ input {
     }
 }
 @media screen and (max-width:425px) {
+    .black{
+        margin: auto !important;
+         display: block !important;
+         width: 110px;
+         height: 10px;
+         border-radius: 10px ;
+     }
     .sect1{
         padding-right: 12px !important;
     }
-    .get{
-        margin-left: 9rem !important;
-    }
+    
     #fin{
         flex-direction: column !important;
     }

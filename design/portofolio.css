@@ -2,7 +2,6 @@
     margin-bottom: 7rem;
 }
 .black{
-    margin-left: 10rem;
     width: 100px;
     height: 10px;
     display: none;
@@ -40,7 +39,6 @@
     height: 60px;
     background-color: #FF6B00;
     border: 1px solid black;
-    box-shadow: 5px 5px 25px gray;
 }
 .bouton1:hover {
 background-color: #FE984E ;
@@ -49,6 +47,7 @@ background-color: #FE984E ;
     background-color: #E35F00 ;
 }
 .card-img-top {
+    box-shadow: grey 0px 3px 0px 0px;
     border-radius: 10px;
 }
 #Selenium {
@@ -105,7 +104,7 @@ button.ptb {
     font-size: 70px;  
 }
 #des{
-    margin: auto;
+    /* margin: auto; */
 }
 .con{
     font-weight: 450;
@@ -135,6 +134,7 @@ input {
     border-color: #EBEFF4 !important;
 }
 #impa{
+    box-shadow: 5px 5px 25px gray;
    height: 281.33px;
 }
 h5{
@@ -242,13 +242,17 @@ height: 500px;
         font-size: 40px;
     }
     #bes{
-       margin: auto !important;
+        margin-right: 24px !important;
+        margin-top: 10px !important;
+     margin-left: 24px !important;
     }
     .abla{
         margin-top: 58rem;
     }
     #des{
-    margin: auto;
+        margin-right: 24px !important;
+        margin-top: 10px !important;
+     margin-left: 24px !important;
     }
     .con{
         margin-top: 37rem;
@@ -258,7 +262,11 @@ height: 500px;
         width: 350px;
     }
     .ros1{
+        padding: auto !important;
         margin-bottom: 10px;
+    }
+    .ros2{
+        padding: auto !important;
     }
     #zo{
         margin-bottom: 100rem;
@@ -281,6 +289,7 @@ height: 500px;
     }
     .black{
         display: block;
+        margin: auto;
     }
     #ab{
         margin-top: 7rem;
@@ -292,7 +301,9 @@ height: 500px;
 margin-top: 51rem;
 margin-bottom: 7rem;
     }
-    
+    .liste-a-puce{
+        margin-bottom: 5Px !important;
+    }
 }
 @media screen and (max-width:375px) {
     .row{
@@ -318,7 +329,11 @@ margin-bottom: 7rem;
         font-size: 40px;
     }
     #bes{
-       margin: auto !important;
+        margin-right: 24px !important;
+        margin-top: 10px !important;
+     margin-left: 24px !important;
+      
+      
     }
     .abla{
         margin-top: 58rem;
@@ -330,6 +345,7 @@ margin-bottom: 7rem;
         margin-top: 37rem;
     }
     .langue{
+        margin-top: 70px !important;
         height: 430px !important;
         width: 300px;
     }
@@ -357,6 +373,7 @@ margin-bottom: 7rem;
     }
     .black{
         display: block;
+        margin: auto;
     }
     #ab{
         margin-top: 7rem;
@@ -365,8 +382,8 @@ margin-bottom: 7rem;
         height: 150px;
     }
     .con{
-margin-top: 51rem;
-margin-bottom: 7rem;
+    margin-top: 51rem;
+    margin-bottom: 7rem;
     }
     
 }

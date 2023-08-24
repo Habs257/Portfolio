@@ -1,54 +1,22 @@
-.full {
-    display: none !important;
+#fin{
+    margin-bottom: 7rem;
 }
 .black{
-    width: 15px;
-    height: 5px;
-    display: none !important;
+    margin-left: 10rem;
+    width: 100px;
+    height: 10px;
+    display: none;
+    border-radius: 5px;
+    margin-bottom: 5px;
 }
-#Selenium {
+#hhhd{
     display: none;
 }
-
-.nav-link {
-    color: #344463 !important;
+.bleufoncé{
+    color: #172B4D ;
+}.orange{
+    color: #FF6B00;
 }
-
-.card-img-top {
-    border-radius: 10px !important;
-}
-
-.iconn {
-    margin-top: 0.5rem;
-}
-
-.ptb {
-    width: 7rem;
-    height: 2.5rem;
-    border: none;
-    border-radius: 5px;
-}
-
-.ptb:hover {
-    background-color: #C5E9DA !important;
-}
-
-button.ptb {
-    background-color: #36B37E;
-}
-
-.ptb:active {
-    background-color: #28855D !important;
-}
-
-.bod {
-    height: 156px !important;
-}
-
-.top2 {
-    height: 280px !important;
-}
-
 .get:hover {
     background-color: #FE984E !important;
 }
@@ -63,91 +31,6 @@ button.ptb {
     width: 120px;
     background-color: rgb(255, 107, 0);
 }
-
-#deux {
-    align-content: center !important;
-    display: flex !important;
-}
-
-.dex {
-    white-space: nowrap !important;
-}
-
-.btn2023 ul li {
-    color: #FF6B00 !important;
-}
-
-.btn {
-    font-size: 15px;
-    color: #FF6B00 !important;
-    background-color: #EBF0EE !important;
-}
-
-.skil2 {
-    height: 400px !important;
-}
-
-.lang {
-    height: 566px !important;
-}
-
-.uk {
-    height: 86px !important;
-}
-
-.top1 {
-    height: 304px !important;
-}
-
-.orange {
-    color: #FF6B00;
-}
-
-.chevrons {
-    margin-top: 2rem !important;
-    display: flex !important;
-    justify-content: end;
-}
-
-.chevronss {
-    width: 30px !important;
-    border: 1px solid black;
-}
-
-.fille {
-    height: 100vh !important;
-    width: 680px !important;
-}
-
-.iimg {
-    height: 300px;
-    border-radius: 20px;
-    box-shadow: 2px 2px 12px;
-}
-
-.dark {
-    height: 183px !important;
-}
-
-.langue {
-    width: 416px !important;
-    height: 493px !important;
-    margin-left: 10px;
-}
-
-.abou {
-    font-size: 70px;
-    margin-top: 2rem;
-}
-
-.ull {
-    height: 124px !important;
-}
-
-.iconn {
-    margin-top: 9rem !important;
-}
-
 .bouton1 {
     color: white;
     font-size: 25px;
@@ -159,80 +42,82 @@ button.ptb {
     border: 1px solid black;
     box-shadow: 5px 5px 25px gray;
 }
-
-.dow {
-    width: 30px;
-    height: 45px;
-    font-size: 51px;
+.bouton1:hover {
+background-color: #FE984E ;
 }
-
-.cardebod {
-    height: 212px;
+.bouton1:active {
+    background-color: #E35F00 ;
 }
-
-textarea:focus {
-    box-shadow: none;
-}
-
-a:hover svg path {
-    fill: #FF6B00;
-}
-
-textarea {
-    border-color: #FF6B00;
-}
-
-.bod1 {
-    background-color: #EBEFF4 !important;
-}
-
 .card-img-top {
-    height: 242.5px;
+    border-radius: 10px;
 }
-.icona {
-    height: 96px;
+#Selenium {
+    display: none;
 }
-.iconaa {
-    height: 57px;
+.nav-link {
+    color: #344463;
 }
-.ros1 {
-    margin-bottom: 30px;
+.ptb {
+    width: 7rem;
+    height: 2.5rem;
+    border: none;
+    border-radius: 5px;
 }
-div .input-groupe {
-    width: 320px !important;
+
+.ptb:hover {
+    background-color: #C5E9DA;
 }
-div .input-groupee {
-    padding-right: 0 !important;
+
+button.ptb {
+    background-color: #36B37E;
 }
-div .input-groupi {
-    width: 647px !important;
-    margin-right: 0 !important;
+
+.ptb:active {
+    background-color: #28855D;
 }
-.ecrit {
-    margin-top: 15rem;
+.btn {
+    font-size: 15px;
+    color: #FF6B00 !important;
 }
-.ican {
-    margin-top: 5rem;
+.chevrons {
+    margin-top: 2rem ;
+    display: flex;
+    justify-content: end;
 }
-.premier {
+.chevronss {
+    width: 30px;
+    border: 1px solid black;
+}
+.life{
     height: 100vh;
 }
-
-.iiii {
-    margin-top: 7rem;
+.fille{
+    width: 720px;
+    height: 100vh;
 }
-.fo {
-
-    width: 644px !important;
+#ab {
+    color: #172B4D;
+    font-size: 70px;
 }
-.impt {
-    padding-left: 0 !important;
+#ppp{
+    margin-top: 2rem;
+    color: #172B4D;
+    font-size: 70px;  
 }
-.con {
-    width: 650px !important;
+#des{
+    margin: auto;
 }
-.teg {
-    width: 110px;
+.con{
+    font-weight: 450;
+}
+.ecrit{
+    margin-top: 18rem;
+}
+.git{
+    margin-top: 1rem;
+}
+.iconn{
+    margin-top: 16rem;
 }
 textarea:focus {
     box-shadow: none !important;
@@ -247,411 +132,245 @@ input:focus {
 }
 
 input {
-    border-color: #FF6B00 !important;
+    border-color: #EBEFF4 !important;
 }
-@media screen and (max-width:375px) { 
-    .black{
-       margin: auto !important;
-        display: block !important;
-        width: 110px;
-        height: 10px;
-        border-radius: 10px ;
-    }
-    .ros1 {
-        margin-bottom: 0px;
-    }
-
-    #bes {
-        margin-top: 10px !important;
-    }
-
-    #des {
-        margin-top: 10px !important;
-    }
-
-    #hh {
-        font-size: 50px !important;
-    }
-
-    p {
-        font-size: 25px !important;
-    }
-    .langue{
-        margin: auto !important;
-        width: 590px !important;
-    }
-    body {
-        width: fit-content !important;
-        justify-content: center !important;
-    }
-    .row{
-        justify-content: center !important;
-        flex-direction: column !important;
-    }
-
-    div .chevrons {
-        display: none !important;
-    }
-
-    div .iconn {
-        display: none !important;
-    }
-
-    div .life {
-        display: flex !important;
-        justify-content: center !important;
-    }
-
-    .liste-a-puce .btn {
-        font-size: 13px !important;
-
-    }
-
-    .liste-a-puce {
-        padding-left: 0 !important;
-    }
-
-    .fille {
-        height: 30vh !important;
-        width: 410px !important;
-    }
-
-    .abou {
-        font-size: 40px !important;
-    }
-
-    .langue {
-        white-space: nowrap !important;
-    }
-
-    textarea:focus {
-        box-shadow: none !important;
-    }
-
-    textarea {
-        border-color: #FF6B00 !important;
-    }
-
-    input:focus {
-        box-shadow: none !important;
-    }
-
-    input {
-        border-color: #FF6B00 !important;
-    }
-
-    #Selenium {
-        width: 95px !important;
-        display: inline !important;
-
-    }
-
-    #deux {
-        display: none !important;
-    }
-
-    div .input-groupee {
-        width: auto !important;
-    }
-
-    div .input-groupi {
-      width:373px !important;
-    }
-    .fo{
-        width: 373px !important;
-    }
-
-    .full {
-        width: 373px !important;
-        display: block !important;
-    }
-
-    #hhh {
-        font-size: 50px !important;
-    }
-    #fin{
-        flex-direction: column !important;
-    }
-    .get{
- margin-left: 15.5rem !important;
-    }
-    #zo{
-  margin: auto !important;
-    }
-    #bes {
-        
-    margin: auto !important;
-    }
-
-    #des {
-  margin: auto !important;
-   
-    }
-    #oz{
-     margin: auto !important; 
-    }
+#impa{
+   height: 281.33px;
 }
-@media screen and (max-width:425px) {
-    .black{
-        margin: auto !important;
-         display: block !important;
-         width: 110px;
-         height: 10px;
-         border-radius: 10px ;
-     }
+h5{
+    height: 98px;
+    font-weight: 300;
+}
+#bes{
+height: 500px;
+}
+.full{
+    display: none;
+}
+.sect1{
+    height: 100vh;
+}
+.abla{
+    margin-top: 17rem;
+    height: 100vh;
+} 
+@media screen and (max-width:1024px) {
+    .fille{
+        width: 520px;
+        height: 100vh;
+    } 
+    .life{
+        height: 30vh;
+    }
+    .git{
+        margin-top: 1.5rem;
+    }
+    .iconn{
+        margin-top: 10rem;
+    }
     .sect1{
-        padding-right: 12px !important;
+        height: 100vh;
     }
-    
-    #fin{
-        flex-direction: column !important;
+    .abla{
+        height: 100vh;
+        margin-top: 30rem;
     }
-    .ros1 {
-        margin-bottom: 0px;
+    h5{
+        font-size: 14px;
+        height: 45px;
     }
-    #zo{
-        margin: auto !important;
-          }
-          #bes {
-              
-          margin: auto !important;
-          }
-      
-          #des {
-        margin: auto !important;
-         
-          }
-          #oz{
-           margin: auto !important; 
-          }
-    .sect1{
-      margin: auto !important;
+    #bes{
+        height: 480px;
     }
-    #hh {
-        font-size: 50px !important;
-    }
-
-    p {
-        font-size: 25px !important;
-    }
-
-    body {
-        justify-content: center !important;
-    }
-
-    div .chevrons {
-        display: none !important;
-    }
-
-    div .iconn {
-        display: none !important;
-    }
-
-    div .life {
-        display: flex !important;
-        justify-content: center !important;
-    }
-
-    .liste-a-puce .btn {
-        font-size: 13px !important;
-
-    }
-
-    .liste-a-puce {
-        padding-left: 0 !important;
-    }
-
-    .fille {
-        height: 30vh !important;
-        width: 410px !important;
-    }
-
-    .abou {
-        font-size: 40px !important;
-    }
-
-    .langue {
-        white-space: nowrap !important;
-    }
-
-    textarea:focus {
-        box-shadow: none !important;
-    }
-
-    textarea {
-        border-color: #FF6B00 !important;
-    }
-
-    input:focus {
-        box-shadow: none !important;
-    }
-
-    input {
-        border-color: #FF6B00 !important;
-    }
-
-    #Selenium {
-        width: 95px !important;
-        display: inline !important;
-
-    }
-
-    #deux {
-        display: none !important;
-    }
-
-    div .input-groupee {
-       width: 375px !important;
-    }
-
-    div .input-groupi {
-      width: 375px !important;
-    }
- 
-    
-    .full {
-        width: 375px !important;
-        display: block !important;
-    }
-
-    #hhh {
-        font-size: 50px !important;
-    }
-    .impt{
-        padding: 12px !important;
-        margin: auto !important;
+    .btn{
+        font-size: 10px;
     }
 }
 @media screen and (max-width:768px) {
-    #bes {
-        margin-top: 10px !important;
+    .fille{
+        width: 320px;
+        height: 100vh;
+    } 
+    .life{
+        height: 30vh;
     }
-
-    #des {
-        margin-top: 10px !important;
+    .git{
+        margin-top: 1.5rem;
     }
-
-    #hh {
-        font-size: 50px !important;
+    .iconn{
+        margin-top: 8rem;
     }
-
-    p {
-        font-size: 25px !important;
+    .sect1{
+        height: 100vh;
     }
-
-    body {
-        justify-content: center !important;
+    .abla{
+        height: 100vh;
+        margin-top: 30rem;
     }
-
-    div .chevrons {
+    h5{
+        font-size: 14px;
+        height: 45px;
+    }
+    #bes{
+        height: 480px;
+    }
+    .btn{
+        font-size: 6px;
+    }
+}
+@media screen and (max-width:425px) {
+    .row{
+        flex-direction: column;
+    }
+    .premiere{
+        flex-direction: column !important;
+    }
+    .bouton1{
+        display: none;
+    }
+    .chevronss{
+        display: none;
+    }
+    .fille{
+        height: 35vh;
+        width: 200px;
+    }
+    .iiii{
+        height: 50px;
+    }
+    #ppp{
+        font-size: 40px;
+    }
+    #bes{
+       margin: auto !important;
+    }
+    .abla{
+        margin-top: 58rem;
+    }
+    #des{
+    margin: auto;
+    }
+    .con{
+        margin-top: 37rem;
+    }
+    .langue{
+        height: 430px !important;
+        width: 350px;
+    }
+    .ros1{
+        margin-bottom: 10px;
+    }
+    #zo{
+        margin-bottom: 100rem;
+        margin: auto;
+    }
+    #deux{
         display: none !important;
     }
-
-    div .iconn {
+    .full{
+        display: block;
+    }
+    #bdf{
+        display: none;
+    }
+    #hhhd{
+        display: block;
+    }
+    .impt{
+        margin: auto;
+    }
+    .black{
+        display: block;
+    }
+    #ab{
+        margin-top: 7rem;
+    }
+    #impa{
+        height: 150px;
+    }
+    .con{
+margin-top: 51rem;
+margin-bottom: 7rem;
+    }
+    
+}
+@media screen and (max-width:375px) {
+    .row{
+        flex-direction: column;
+    }
+    .premiere{
+        flex-direction: column !important;
+    }
+    .bouton1{
+        display: none;
+    }
+    .chevronss{
+        display: none;
+    }
+    .fille{
+        height: 35vh;
+        width: 200px;
+    }
+    .iiii{
+        height: 50px;
+    }
+    #ppp{
+        font-size: 40px;
+    }
+    #bes{
+       margin: auto !important;
+    }
+    .abla{
+        margin-top: 58rem;
+    }
+    #des{
+    margin: auto;
+    }
+    .con{
+        margin-top: 37rem;
+    }
+    .langue{
+        height: 430px !important;
+        width: 300px;
+    }
+    .ros1{
+        margin-bottom: 10px;
+    }
+    #zo{
+        margin-bottom: 100rem;
+        margin: auto;
+    }
+    #deux{
         display: none !important;
     }
-
-    div .life {
-        display: flex !important;
-        justify-content: center !important;
+    .full{
+        display: block;
     }
-
-    .liste-a-puce .btn {
-        font-size: 13px !important;
-
+    #bdf{
+        display: none;
     }
-
-    .liste-a-puce {
-        padding-left: 0 !important;
+    #hhhd{
+        display: block;
     }
-
-    .fille {
-        height: 100vh !important;
-        width: 410px !important;
+    .impt{
+        margin: auto;
     }
-
-    .abou {
-        font-size: 40px !important;
+    .black{
+        display: block;
     }
-
-    .langue {
-        white-space: nowrap !important;
+    #ab{
+        margin-top: 7rem;
     }
-
-    textarea:focus {
-        box-shadow: none !important;
+    #impa{
+        height: 150px;
     }
-
-    textarea {
-        border-color: #FF6B00 !important;
+    .con{
+margin-top: 51rem;
+margin-bottom: 7rem;
     }
-
-    input:focus {
-        box-shadow: none !important;
-    }
-
-    input {
-        border-color: #FF6B00 !important;
-    }
-
-    #Selenium {
-        width: 95px !important;
-        display: inline !important;
-
-    }
-
-    #deux {
-        display: none !important;
-    }
-
-    div .input-groupee {
-        width: auto !important;
-    }
-
-    div .input-groupi {
-      width:auto !important;
-    }
-    .fo{
-        width: 375px !important;
-    }
-
-    .full {
-        width: auto !important;
-        display: block !important;
-    }
-
-    #hhh {
-        font-size: 50px !important;
-    }
-    #oz{
-        margin-top: 10px !important;
-    }
-    }
-    @media screen and (max-width:1024px) {
-        div .chevrons{
-            display: none !important;
-           }
-         
-           #sss{
-            margin-bottom: 10px !important;
-           }
-
-           textarea:focus {
-            box-shadow: none !important;
-        }
     
-        textarea {
-            border-color: #FF6B00 !important;
-        }
-    
-        input:focus {
-            box-shadow: none !important;
-        }
-    
-        input {
-            border-color: #FF6B00 !important;
-        }
-        #ggg{
-            font-size: 30px !important;
-        }
-    }
+}
+
+
+
+

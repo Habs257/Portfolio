@@ -8,6 +8,9 @@
     border-radius: 5px;
     margin-bottom: 5px;
 }
+.git li svg:hover{
+    background-color:#FF6B00;
+}
 #hhhd{
     display: none;
 }
@@ -46,8 +49,7 @@ background-color: #FE984E ;
 .bouton1:active {
     background-color: #E35F00 ;
 }
-.card-img-top {
-    box-shadow: grey 0px 3px 0px 0px;
+.card-img-top{
     border-radius: 10px;
 }
 #Selenium {
@@ -57,12 +59,11 @@ background-color: #FE984E ;
     color: #344463;
 }
 .ptb {
-    width: 7rem;
-    height: 2.5rem;
+    width: 9rem;
+    height: 3.5rem;
     border: none;
     border-radius: 5px;
 }
-
 .ptb:hover {
     background-color: #C5E9DA;
 }
@@ -88,11 +89,12 @@ button.ptb {
     border: 1px solid black;
 }
 .life{
-    height: 100vh;
+    width: 685px;
+    height: 90vh;
 }
 .fille{
-    width: 720px;
-    height: 100vh;
+    width: 700px;
+    height: 90vh;
 }
 #ab {
     color: #172B4D;
@@ -103,9 +105,6 @@ button.ptb {
     color: #172B4D;
     font-size: 70px;  
 }
-#des{
-    /* margin: auto; */
-}
 .con{
     font-weight: 450;
 }
@@ -115,8 +114,11 @@ button.ptb {
 .git{
     margin-top: 1rem;
 }
+.git :hover{
+    color: #E35F00;
+}
 .iconn{
-    margin-top: 16rem;
+    margin-top: 10rem;
 }
 textarea:focus {
     box-shadow: none !important;
@@ -134,15 +136,17 @@ input {
     border-color: #EBEFF4 !important;
 }
 #impa{
-    box-shadow: 5px 5px 25px gray;
+
    height: 281.33px;
 }
 h5{
-    height: 98px;
-    font-weight: 300;
+    padding-top: 30px;
+    height: 80px;
+    font-weight: 600;
 }
 #bes{
-height: 500px;
+    width: 424px;
+height: 550px;
 }
 .full{
     display: none;
@@ -154,10 +158,13 @@ height: 500px;
     margin-top: 17rem;
     height: 100vh;
 } 
+.ros1{
+    margin-bottom: 10px;
+}
 @media screen and (max-width:1024px) {
     .fille{
         width: 520px;
-        height: 100vh;
+        height: 90vh;
     } 
     .life{
         height: 30vh;
@@ -177,7 +184,7 @@ height: 500px;
     }
     h5{
         font-size: 14px;
-        height: 45px;
+        height: 85px;
     }
     #bes{
         height: 480px;
@@ -209,10 +216,11 @@ height: 500px;
     }
     h5{
         font-size: 14px;
-        height: 45px;
+        height: 65px;
     }
     #bes{
-        height: 480px;
+
+        height: 460px;
     }
     .btn{
         font-size: 6px;
@@ -242,6 +250,7 @@ height: 500px;
         font-size: 40px;
     }
     #bes{
+        width: 380px;
         margin-right: 24px !important;
         margin-top: 10px !important;
      margin-left: 24px !important;
@@ -329,6 +338,7 @@ margin-bottom: 7rem;
         font-size: 40px;
     }
     #bes{
+        width: 325px;
         margin-right: 24px !important;
         margin-top: 10px !important;
      margin-left: 24px !important;

@@ -8,8 +8,8 @@
     border-radius: 5px;
     margin-bottom: 5px;
 }
-.git li svg:hover{
-    background-color:#FF6B00;
+ .svc :hover {
+  fill:#FF6B00;
 }
 #hhhd{
     display: none;
@@ -124,10 +124,9 @@ textarea:focus {
     box-shadow: none !important;
 }
 
-textarea {
+textarea:focus, input:focus {
     border-color: #FF6B00 !important;
 }
-
 input:focus {
     box-shadow: none !important;
 }
@@ -313,6 +312,9 @@ margin-bottom: 7rem;
     .liste-a-puce{
         margin-bottom: 5Px !important;
     }
+    .get{
+        margin-left: 9.5rem;
+    }
 }
 @media screen and (max-width:375px) {
     .row{
@@ -338,15 +340,17 @@ margin-bottom: 7rem;
         font-size: 40px;
     }
     #bes{
+        height: 430px !important;
         width: 325px;
         margin-right: 24px !important;
         margin-top: 10px !important;
-     margin-left: 24px !important;
-      
-      
+     margin-left: 24px !important; 
     }
     .abla{
         margin-top: 58rem;
+    }
+    .get{
+        margin-left: 7.5rem;
     }
     #des{
     margin: auto;
